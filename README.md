@@ -1,5 +1,5 @@
 # **Projec Aiz - Virtual Assistant**
-![](https://i.ytimg.com/vi/wqQKFu41FIw/maxresdefault.jpg)
+![](https://www.cxtoday.com/wp-content/uploads/2019/09/How-Do-Bots-Chatbots-Work.jpg)
 ![](https://img.shields.io/github/license/huytjuh/Recommender-System-Basket-Analysis) ![](https://img.shields.io/maintenance/no/2021)
 
 Subsequence Time Series (STS) Clustering model for discovering hidden patterns and complex seasonality within univariate time-series datasets by clustering similar groups of time windows based on their structural characteristics with advanced statistics.
