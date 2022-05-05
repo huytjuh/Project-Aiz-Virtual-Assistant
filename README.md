@@ -1,4 +1,4 @@
-# **Projec Aiz -- Virtual Assistant**
+# **Projec Aiz - Virtual Assistant**
 ![](https://i.ytimg.com/vi/wqQKFu41FIw/maxresdefault.jpg)
 ![](https://img.shields.io/github/license/huytjuh/Recommender-System-Basket-Analysis) ![](https://img.shields.io/maintenance/no/2021)
 
